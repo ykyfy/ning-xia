@@ -2,7 +2,7 @@ name: CaijiGuangdianip
 
 on:
   schedule:
-    - cron: "50 23 * * *"
+    - cron: "50 20 * * *"
   workflow_dispatch:
 
 jobs:
